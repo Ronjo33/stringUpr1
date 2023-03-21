@@ -1,0 +1,8 @@
+C:\Users\User\source\repos\stringUpr\bin\Debug\stringUpr.exe.config
+C:\Users\User\source\repos\stringUpr\bin\Debug\stringUpr.exe
+C:\Users\User\source\repos\stringUpr\bin\Debug\stringUpr.pdb
+C:\Users\User\source\repos\stringUpr\obj\Debug\stringUpr.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\stringUpr\obj\Debug\stringUpr.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\stringUpr\obj\Debug\stringUpr.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\stringUpr\obj\Debug\stringUpr.exe
+C:\Users\User\source\repos\stringUpr\obj\Debug\stringUpr.pdb
